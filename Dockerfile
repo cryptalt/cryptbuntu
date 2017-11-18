@@ -1,4 +1,3 @@
-#FROM saltstack/ubuntu-14.04-minimal
 FROM library/ubuntu:14.04
 MAINTAINER cryptalt
 
